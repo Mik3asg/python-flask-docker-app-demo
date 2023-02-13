@@ -1,2 +1,0 @@
-flaskdeployment-backup.yml
-tutorial instructions.sh
